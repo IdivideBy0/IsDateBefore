@@ -1,0 +1,14 @@
+C:\Users\Mike.Murray\Documents\Visual Studio 2017\Projects\IsDateBefore\IsDateBefore\bin\Debug\netcoreapp2.2\IsDateBefore.deps.json
+C:\Users\Mike.Murray\Documents\Visual Studio 2017\Projects\IsDateBefore\IsDateBefore\bin\Debug\netcoreapp2.2\IsDateBefore.runtimeconfig.json
+C:\Users\Mike.Murray\Documents\Visual Studio 2017\Projects\IsDateBefore\IsDateBefore\bin\Debug\netcoreapp2.2\IsDateBefore.runtimeconfig.dev.json
+C:\Users\Mike.Murray\Documents\Visual Studio 2017\Projects\IsDateBefore\IsDateBefore\bin\Debug\netcoreapp2.2\IsDateBefore.dll
+C:\Users\Mike.Murray\Documents\Visual Studio 2017\Projects\IsDateBefore\IsDateBefore\obj\Debug\netcoreapp2.2\IsDateBefore.csprojAssemblyReference.cache
+C:\Users\Mike.Murray\Documents\Visual Studio 2017\Projects\IsDateBefore\IsDateBefore\obj\Debug\netcoreapp2.2\IsDateBefore.csproj.CoreCompileInputs.cache
+C:\Users\Mike.Murray\Documents\Visual Studio 2017\Projects\IsDateBefore\IsDateBefore\obj\Debug\netcoreapp2.2\IsDateBefore.RazorAssemblyInfo.cache
+C:\Users\Mike.Murray\Documents\Visual Studio 2017\Projects\IsDateBefore\IsDateBefore\obj\Debug\netcoreapp2.2\IsDateBefore.RazorAssemblyInfo.cs
+C:\Users\Mike.Murray\Documents\Visual Studio 2017\Projects\IsDateBefore\IsDateBefore\obj\Debug\netcoreapp2.2\IsDateBefore.AssemblyInfoInputs.cache
+C:\Users\Mike.Murray\Documents\Visual Studio 2017\Projects\IsDateBefore\IsDateBefore\obj\Debug\netcoreapp2.2\IsDateBefore.AssemblyInfo.cs
+C:\Users\Mike.Murray\Documents\Visual Studio 2017\Projects\IsDateBefore\IsDateBefore\obj\Debug\netcoreapp2.2\IsDateBefore.RazorTargetAssemblyInfo.cache
+C:\Users\Mike.Murray\Documents\Visual Studio 2017\Projects\IsDateBefore\IsDateBefore\bin\Debug\netcoreapp2.2\IsDateBefore.pdb
+C:\Users\Mike.Murray\Documents\Visual Studio 2017\Projects\IsDateBefore\IsDateBefore\obj\Debug\netcoreapp2.2\IsDateBefore.dll
+C:\Users\Mike.Murray\Documents\Visual Studio 2017\Projects\IsDateBefore\IsDateBefore\obj\Debug\netcoreapp2.2\IsDateBefore.pdb
